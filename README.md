@@ -6,9 +6,9 @@
 
 ### 2. Dockerのインストール
 
-### 3. 「Docker Desktop」の起動
+### 3. Docker Desktopの起動
 
-### 4. 「Dockerコンテナ」の起動
+### 4. Dockerコンテナの起動
 
 ```
 ./docker-compose-local.sh up
